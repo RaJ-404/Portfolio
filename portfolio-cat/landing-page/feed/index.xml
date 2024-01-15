@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Landing page &#8211; Tirthraj Portfolio</title>
+	<atom:link href="https://tirthraj.me/portfolio-cat/landing-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tirthraj.me</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Jan 2024 20:13:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://tirthraj.me/wp-content/uploads/2024/01/icon.png</url>
+	<title>Landing page &#8211; Tirthraj Portfolio</title>
+	<link>https://tirthraj.me</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Landing page for Digital.</title>
+		<link>https://tirthraj.me/portfolio/project4/</link>
+		
+		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2021 06:48:52 +0000</pubDate>
+				<guid isPermaLink="false">https://tirthraj.me/portfolio/essential-ui-icon-pack/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Foodtuck &#8211; Interactive Landing Page for a Health-Conscious Restaurant</title>
+		<link>https://tirthraj.me/portfolio/project2/</link>
+		
+		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2021 06:46:27 +0000</pubDate>
+				<guid isPermaLink="false">https://tirthraj.me/portfolio/mobile-card-app/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Branding Nice Studio</title>
+		<link>https://tirthraj.me/portfolio/project1/</link>
+		
+		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2021 06:44:02 +0000</pubDate>
+				<guid isPermaLink="false">https://tirthraj.me/portfolio/branding-nice-studio/</guid>
+
+					<description><![CDATA[The technological revolution is changing aspect of our lives, and the fabric of society itself. it's also changing the way we learn and what we learn. Factual knowledge is less prized when everything you ever need to know can be found on your phone. There's no imperative to be an expert at doing everything when you can.]]></description>
+										<content:encoded><![CDATA[The technological revolution is changing aspect of our lives, and the fabric of society itself. it's also changing the way we learn and what we learn. Factual knowledge is less prized when everything you ever need to know can be found on your phone. There's no imperative to be an expert at doing everything when you can.]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
