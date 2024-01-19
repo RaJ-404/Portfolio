@@ -184,3 +184,6 @@ body { background-attachment:scroll; }
 /* elementor-color-accent 
 =========================*/
 .aux-customize-preview.elementor-kit-66 {--e-global-color-accent: #64F4AB;}
+/* site-image-prelaod-transition-duration 
+=========================*/
+.aux-has-preview { transition-duration:100ms; }
