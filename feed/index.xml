@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Tirthraj Portfolio</title>
+	<title>Tirthraj</title>
 	<atom:link href="https://tirthraj.me/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tirthraj.me</link>
 	<description></description>
-	<lastBuildDate>Sun, 21 Jan 2024 16:31:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Jan 2024 09:03:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://tirthraj.me/wp-content/uploads/2024/01/icon.png</url>
-	<title>Tirthraj Portfolio</title>
+	<title>Tirthraj</title>
 	<link>https://tirthraj.me</link>
 	<width>32</width>
 	<height>32</height>
