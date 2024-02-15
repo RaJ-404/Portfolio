@@ -12,13 +12,13 @@
 	<atom:link href="https://tirthraj.me/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tirthraj.me</link>
 	<description></description>
-	<lastBuildDate>Tue, 23 Jan 2024 09:03:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Feb 2024 17:28:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>https://tirthraj.me/wp-content/uploads/2024/01/icon.png</url>
